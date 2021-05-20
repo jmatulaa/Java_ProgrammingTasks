@@ -1,4 +1,9 @@
-public class Square extends Figure implements Printable{
+package ArraysCircuitsCalculator;
+
+import ArraysCircuitsCalculator.Figure;
+import ArraysCircuitsCalculator.Printable;
+
+public class Square extends Figure implements Printable {
 
     private double a;
 

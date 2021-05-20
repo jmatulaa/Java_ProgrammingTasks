@@ -1,4 +1,6 @@
-public class Triangle extends Figure implements Printable{
+package ArraysCircuitsCalculator;
+
+public class Triangle extends Figure implements Printable {
 
     private double a, b, c, h;
     Triangle(double a, double b, double c, double h)

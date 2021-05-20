@@ -1,4 +1,10 @@
-public class Prism extends Figure implements Printable{
+package ArraysCircuitsCalculator;
+
+import ArraysCircuitsCalculator.Figure;
+import ArraysCircuitsCalculator.Printable;
+import ArraysCircuitsCalculator.Square;
+
+public class Prism extends Figure implements Printable {
 
     private double a, H;
     Prism(double a, double H)

@@ -1,4 +1,6 @@
-public class Circle extends Figure implements Printable{
+package ArraysCircuitsCalculator;
+
+public class Circle extends Figure implements Printable {
 
     private double r;
     final static double PI= 3.14;

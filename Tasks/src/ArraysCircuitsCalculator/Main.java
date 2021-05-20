@@ -1,3 +1,7 @@
+package ArraysCircuitsCalculator;
+
+import ArraysCircuitsCalculator.Circle;
+
 import java.util.Scanner;
 
 public class Main {
